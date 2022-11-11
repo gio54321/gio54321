@@ -8,7 +8,7 @@ Hi, I am Giorgio, computer science student at the university of Pisa
 
 - IT security
 - microservices and cloud applications
-- system and functional programming
+- systems and functional programming
 - formal methods, type theory and logic
 
 ## Projects
