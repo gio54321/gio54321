@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-Hi, I am Giorgio, computer science student at the university of Pisa
+I am Giorgio, computer science student at the university of Pisa
 
 [![Giorgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gio54321&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Main interests
 
 - IT security
-- microservices and cloud applications
-- systems and functional programming
-- formal methods, type theory and logic
+- Microservices and cloud applications
+- Systems and functional programming
+- Formal methods, type theory and logic
 
 ## Projects
 
