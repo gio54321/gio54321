@@ -13,6 +13,7 @@ I am Giorgio, computer science student at the university of Pisa
 
 ## Projects
 
-- [A PoC prover for Hoare logic](https://github.com/gio54321/hoare-logic-prover)
-- [A mock microservices application focused on security properties](https://github.com/gio54321/ms-mock)
-- I write sparingly on my [blog](https://gio54321.github.io/)
+- [Kube-hound, a security smell detection tool for Kubernetes clusters](https://github.com/di-unipi-socc/kube-hound)
+- [Poof-of-concept Hoare logic theorem prover using z3](https://github.com/gio54321/hoare-logic-prover)
+
+I also write sparingly on my [blog](https://gio54321.github.io/)
