@@ -7,8 +7,8 @@ I am Giorgio, computer science student at the university of Pisa
 ## Main interests
 
 - IT security
-- Microservices and cloud applications
-- Systems and functional programming
+- Cryptography
+- Functional programming languages
 - Formal methods, type theory and logic
 
 ## Projects
