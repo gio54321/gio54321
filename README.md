@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Giorgio, computer science student at the university of Pisa
+I am Giorgio, computer science student at the university of Pisa and Security Researcher at zkSecurity
 
 [![Giorgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gio54321&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
